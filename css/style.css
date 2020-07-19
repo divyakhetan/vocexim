@@ -400,14 +400,14 @@ h3 {
   border: 1px solid #5DB2FF;
   letter-spacing: 3px;
   text-align: center;
-  color: #5DB2FF !important;
+  color: #62b7bd !important;
   text-transform: uppercase;
   cursor: pointer;
 }
 
 /* line 17, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_btn.scss */
 .boxed-btn:hover {
-  background: #5DB2FF;
+  background: #62b7bd;
   color: #fff !important;
   border: 1px solid #5DB2FF;
 }
@@ -424,11 +424,11 @@ h3 {
 
 /* line 29, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_btn.scss */
 .boxed-btn3 {
-  background: -moz-linear-gradient(top, #0181f5 0%, rgba(93, 178, 255, 0.99) 100%);
+  background: -moz-linear-gradient(top, #62b7bd 0%, rgba(93, 178, 255, 0.99) 100%);
   /* FF3.6-15 */
-  background: -webkit-linear-gradient(top, #0181f5 0%, rgba(93, 178, 255, 0.99) 100%);
+  background: -webkit-linear-gradient(top, #62b7bd 0%, rgba(93, 178, 255, 0.99) 100%);
   /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to bottom, #0181f5 0%, rgba(93, 178, 255, 0.99) 100%);
+  background: linear-gradient(to bottom, #62b7bd 0%, rgba(93, 178, 255, 0.99) 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0181f5', endColorstr='#fc5db2ff',GradientType=0 );
   /* IE6-9 */
@@ -1323,6 +1323,14 @@ h3 {
   background-image: url(../img/banner/banner_2.png);
 }
 
+
+.slider_bg_3 {
+  background-image: url(../img/banner/banner_3.png);
+}
+
+.slider_bg_4 {
+  background-image: url(../img/banner/banner_4.png);
+}
 /* line 8, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_slider.scss */
 .slider_area .single_slider {
   height: 750px;
