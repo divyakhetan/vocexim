@@ -259,7 +259,7 @@ h3 {
   height: 100%;
   left: 0;
   top: 0;
-  background: #001D38;
+  background: #999999;
   opacity: .6;
   content: '';
   z-index: -1;
@@ -868,7 +868,7 @@ h3 {
 
 /* line 28, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_header.scss */
 .header-area .main-header-area.details_nav {
-  background: #001D38;
+  background: #313233;
 }
 
 /* line 45, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_header.scss */
