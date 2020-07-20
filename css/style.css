@@ -2305,6 +2305,7 @@ h3 {
   font-size: 20px;
   /* margin-top: 54px; */
   margin-bottom: 35px;
+  text-align: justify;
 }
 
 /* line 39, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_case_details.scss */
@@ -2325,6 +2326,7 @@ h3 {
   font-size: 15px;
   font-weight: 400;
   margin-bottom: 0;
+  text-align: justify;
 }
 
 /* line 53, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_case_details.scss */
